@@ -1,22 +1,23 @@
 # DataXKinesso
 
-EDA: 
+## EDA: 
 - EDA-2.ipynb
 - EDA_conditional_entropy_stuff.ipynb
 
-Data Cleaning:
+## Data Cleaning:
 -City_Dataframes.ipynb 
 
 
-Persona + vizualizations: 
+## Persona + vizualizations: 
 - Modelv1
 - Sam_pie_charts.ipynb
+- Prettier_interactive_viz_with_chi_squared.ipynb
 
 
 
-Statistical Computations:
--Chi_square_stuff.ipynb 
--Correlation_matrix_V2.ipynb
+## Statistical Computations:
+- Chi_square_stuff.ipynb 
+- Correlation_matrix_V2.ipynb
 
 
 
