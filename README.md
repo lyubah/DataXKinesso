@@ -49,7 +49,7 @@ for comparison. requires Audience_DE.csv as demo data, but is flexible to other
 data files with minor changes to code. (i.e. changing name of data imported at the beginning of script).
 
 # Code for reproducibility : 
-## - ** methods.py.zip **
+##  **methods.py.zip**
 ### Contains all codes nessesary for integrating vizualizations into company's current, audience building application. 
 
 This includes codes for: 
