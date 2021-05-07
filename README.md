@@ -42,7 +42,7 @@ All of our EDA and primary visualizations were done in IPython Notebooks. There 
 - Methond generates set of bar charts displaying change in chosen demographic after slicing dataset
 - Also displays chi squared statistic with each graph
 - Bar charts and contitional entropy help audience get familiar with data
--
+
 ## bar.py:
 Interactive UI that allows user to select column and value to filter by, generating bar charts and chi square values 
 for comparison. requires Audience_DE.csv as demo data, but is flexible to other 
@@ -55,7 +55,7 @@ data files with minor changes to code. (i.e. changing name of data imported at t
 This includes codes for: 
 - cleaning
 - processing 
-- statistics computations (for visualizations)
+- statistical computations 
 - visualizations
 
 
