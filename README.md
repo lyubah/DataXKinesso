@@ -5,7 +5,7 @@ Welcome to the KinessoX Github.
 # About: 
 Systemic bias is present in marketing audience-building. Companies seek to be socially conscious in their marketing and advertising efforts; however, they are unaware of implicit biases in the process of building target audiences. In partnership with Kinesso, a marketing intelligence agency, our team of Data Science Students have created a tool that seeks to shed light on those biases and hopefully help companies realize the vast and unrealized benefits of diverse audiences. 
 
-In this repository, you'll find documentation of our workflow (such as EDA), details about the tool, demo of our interface, and codes for reproducability. 
+In this repository, you'll find documentation of our workflow (such as EDA), details about the tool, demo of interface, and codes for reproducability. 
 
 All of our EDA and primary visualizations were done in IPython Notebooks. There is a description of each notebook below. The final deliverable of our tool is in a Streamlit app and method file which contains all code used in our process. 
 
